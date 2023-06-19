@@ -1,0 +1,4 @@
+google-cloud-pubsub
+Faker
+apache_beam[gcp]
+pandas==1.5.2
